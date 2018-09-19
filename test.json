@@ -1,0 +1,24 @@
+{
+	"profile":{
+		"firstname":"paul",
+		"lastname":"cabunilas",
+		"age": 11,
+		"address":{
+			"street":"912 Topaz",
+			"city": "Quezon City"
+		},
+		"hobbies":["asdsad","1231231"],
+		"interest":[{
+			"name":"cycling",
+			"level": 10
+		},{
+			"name":"Weight lifting",
+			"level":1
+		}],
+		"music":{
+			"genere":"rock",
+			"year": "early 2000s",
+			"band": "RedHotChiliPeppers"
+		}
+	}
+}
